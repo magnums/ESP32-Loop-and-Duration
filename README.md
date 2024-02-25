@@ -31,8 +31,5 @@ Authentication: Change the default username and password in the code for enhance
 Contributing
 Contributions to this project are welcome. Feel free to open issues for bug reports, feature requests, or submit pull requests with improvements.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Acknowledgements
 Special thanks to the developers of libraries used in this project: WiFiManager, AsyncTCP, ESPAsyncWebServer, Preferences, NTPClient.
